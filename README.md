@@ -1,5 +1,5 @@
 # Santiago Doval Borthagaray
-### ⚙️ Full-Stack Developer | 🇦🇷Buenos Aires, Argentina 
+### ⚙️ Full-Stack Developer | 🇦🇷 Buenos Aires, Argentina 
 
 ## Projects
 - 🎞️ OMDB (Movie database)
